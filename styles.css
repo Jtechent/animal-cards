@@ -1,0 +1,39 @@
+/* add your CSS here */
+.name{
+  padding: 0 15px;
+  margin: 15px 0;
+}
+
+.content{
+  width: 330px;
+  margin: auto;
+  border-width: 1px;
+  border-style: solid;
+}
+.information{
+  width: 300px;
+  margin: 15px;
+}
+
+.bordered{
+  border-width: 1px;
+  border-style: solid;
+}
+
+p{
+  font-style: italic;
+}
+
+span{
+  font-weight: bold;
+}
+
+ul{
+  list-style-type: none;
+}
+
+img{
+  width: 300px;
+  height: 200px;
+  margin: 15px;
+}
